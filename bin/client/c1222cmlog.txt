@@ -1,0 +1,244 @@
+CM:  2/01/15 18:33:13 (+276ms)  "TL: send negotiate request"
+CM:  2/01/15 18:33:13 (+276ms)  "PL: port2 tx"
+ EE 00 21 00 00 08 63 00 57 02 06 08 0B 01 D5 92
+CM:  2/01/15 18:33:13 (+297ms)  "DL: ACK received"
+CM:  2/01/15 18:33:13 (+307ms)  "PL: port2 rx"
+ EE 00 21 00 00 07 00 00 57 02 0B 01 00 9D 88
+CM:  2/01/15 18:33:13 (+307ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:13 (+307ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:13 (+307ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:13 (+307ms)  "DL: Message complete"
+CM:  2/01/15 18:33:13 (+307ms)  "TL: Process ok response for pending request"
+ 63
+CM:  2/01/15 18:33:13 (+307ms)  "TL: rcv response=negotiate"
+CM:  2/01/15 18:33:14 (+184ms)  "DL: SETPARAMETERSSTART"
+CM:  2/01/15 18:33:14 (+184ms)  "DL: set parameters": 38400, 87, 2, 0
+CM:  2/01/15 18:33:14 (+195ms)  "TL: send get config request"
+CM:  2/01/15 18:33:14 (+195ms)  "PL: port2 tx"
+ EE 00 01 00 00 01 72 C0 6A
+CM:  2/01/15 18:33:14 (+289ms)  "DL: ACK received"
+CM:  2/01/15 18:33:14 (+300ms)  "PL: port2 rx"
+ EE 00 01 00 00 2B 00 01 01 20 01 02 03 04 06 12
+CM:  2/01/15 18:33:14 (+300ms)  "PL: port2 rx"
+ 02 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F 10
+CM:  2/01/15 18:33:14 (+300ms)  "PL: port2 rx"
+ 11 12 04 12 34 56 80 00 04 00 00 00 00 0D 00 0D
+CM:  2/01/15 18:33:14 (+300ms)  "PL: port2 rx"
+ 00 08 B3
+CM:  2/01/15 18:33:14 (+300ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:14 (+300ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:14 (+300ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:14 (+300ms)  "DL: Message complete"
+CM:  2/01/15 18:33:14 (+300ms)  "TL: Process ok response for pending request"
+ 72
+CM:  2/01/15 18:33:14 (+300ms)  "TL: rcv response=get config"
+CM:  2/01/15 18:33:14 (+300ms)  "TL: config updated"
+CM:  2/01/15 18:33:16 (+796ms)  "PL: port2 tx"
+ EE 00 21 00 00 00 D6 DF
+CM:  2/01/15 18:33:16 (+820ms)  "DL: ACK received"
+CM:  2/01/15 18:33:16 (+927ms)  "PL: port2 rx"
+ EE 00 21 00 00 02 75 00 12 11
+CM:  2/01/15 18:33:16 (+927ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:16 (+927ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:16 (+927ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:16 (+927ms)  "DL: Message complete"
+CM:  2/01/15 18:33:16 (+927ms)  "TL: process command"
+ 75
+CM:  2/01/15 18:33:16 (+927ms)  "TL: rcv cmd=get status"
+CM:  2/01/15 18:33:16 (+927ms)  "PL: port2 tx"
+ EE 00 01 00 00 2E 00 0D 54 65 73 74 49 6E 74 65
+CM:  2/01/15 18:33:16 (+927ms)  "PL: port2 tx"
+ 72 66 61 63 65 01 08 01 00 00 00 00 00 00 00 01
+CM:  2/01/15 18:33:16 (+927ms)  "PL: port2 tx"
+ 00 01 00 00 00 00 00 00 00 24 00 02 00 00 00 00
+CM:  2/01/15 18:33:16 (+927ms)  "PL: port2 tx"
+ 00 00 00 55 FE B1
+CM:  2/01/15 18:33:16 (+933ms)  "DL: ACK received"
+CM:  2/01/15 18:33:18 (+850ms)  "PL: port2 rx"
+ EE 00 01 00 00 3F 74 04 00 00 00 00 60 37 A8 04
+CM:  2/01/15 18:33:18 (+850ms)  "PL: port2 rx"
+ 02 02 01 5A BE 2F 28 2D 81 2B 90 01 02 03 04 25
+CM:  2/01/15 18:33:18 (+850ms)  "PL: port2 rx"
+ 27 20 00 01 02 03 04 0D 00 06 12 02 02 03 04 05
+CM:  2/01/15 18:33:18 (+850ms)  "PL: port2 rx"
+ 06 07 08 09 0A 0B 0C 0D 0E 0F 10 11 12 04 12 34
+CM:  2/01/15 18:33:18 (+850ms)  "PL: port2 rx"
+ 56 80 FF FF FF 7B 74
+CM:  2/01/15 18:33:18 (+850ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:18 (+850ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:18 (+850ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:18 (+850ms)  "DL: Message complete"
+CM:  2/01/15 18:33:18 (+850ms)  "TL: process command"
+ 74
+CM:  2/01/15 18:33:18 (+850ms)  "TL: rcv cmd=send msg"
+CM:  2/01/15 18:33:18 (+850ms)  "TL: DELAYINGSENDMESSAGERESPONSE"
+CM:  2/01/15 18:33:18 (+850ms)  "AL: _2008_ format message received"
+CM:  2/01/15 18:33:18 (+850ms)  "AL: received message complete"
+CM:  2/01/15 18:33:18 (+850ms)  "AL: NOTERECEIVEMESSAGEHANDLINGCOMPLETE"
+CM:  2/01/15 18:33:18 (+850ms)  "TL: SENDPENDINGOKRESPONSE"
+ 01
+CM:  2/01/15 18:33:18 (+850ms)  "TL: sending send msg response"
+CM:  2/01/15 18:33:18 (+850ms)  "PL: port2 tx"
+ EE 00 21 00 00 01 00 C4 5A
+CM:  2/01/15 18:33:18 (+853ms)  "DL: ACK received"
+CM:  2/01/15 18:33:18 (+853ms)  "TL: send acse msg"
+CM:  2/01/15 18:33:18 (+853ms)  "PL: port2 tx"
+ EE 00 01 00 00 36 74 06 11 22 33 44 00 00 60 2C
+CM:  2/01/15 18:33:18 (+853ms)  "PL: port2 tx"
+ A2 05 80 03 44 21 10 A4 04 02 02 01 5A A6 04 80
+CM:  2/01/15 18:33:18 (+853ms)  "PL: port2 tx"
+ 02 44 21 A8 03 02 01 0B BE 13 28 11 81 0F 80 0C
+CM:  2/01/15 18:33:18 (+853ms)  "PL: port2 tx"
+ 00 0D 03 44 21 10 12 34 00 00 00 01 C9 25
+CM:  2/01/15 18:33:18 (+956ms)  "DL: ACK received"
+CM:  2/01/15 18:33:18 (+956ms)  "AL: sending msg"
+CM:  2/01/15 18:33:18 (+967ms)  "PL: port2 rx"
+ EE 00 21 00 00 01 00 C4 5A
+CM:  2/01/15 18:33:18 (+967ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:18 (+967ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:18 (+967ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:18 (+967ms)  "DL: Message complete"
+CM:  2/01/15 18:33:18 (+967ms)  "TL: Process ok response for pending request"
+ 74
+CM:  2/01/15 18:33:18 (+967ms)  "TL: rcv response=send msg"
+CM:  2/01/15 18:33:18 (+967ms)  "TL: received send msg response - al notified"
+CM:  2/01/15 18:33:21 (+290ms)  "PL: port2 rx"
+ EE 00 01 00 00 2D 74 04 00 00 00 00 60 25 A2 05
+CM:  2/01/15 18:33:21 (+290ms)  "PL: port2 rx"
+ 80 03 44 21 03 A4 04 02 02 00 01 A6 05 80 03 44
+CM:  2/01/15 18:33:21 (+290ms)  "PL: port2 rx"
+ 21 10 A8 04 02 02 00 01 BE 09 28 07 81 05 80 03
+CM:  2/01/15 18:33:21 (+290ms)  "PL: port2 rx"
+ 30 00 34 9E 07
+CM:  2/01/15 18:33:21 (+290ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:21 (+290ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:21 (+290ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:21 (+290ms)  "DL: Message complete"
+CM:  2/01/15 18:33:21 (+290ms)  "TL: process command"
+ 74
+CM:  2/01/15 18:33:21 (+290ms)  "TL: rcv cmd=send msg"
+CM:  2/01/15 18:33:21 (+290ms)  "TL: DELAYINGSENDMESSAGERESPONSE"
+CM:  2/01/15 18:33:21 (+290ms)  "AL: _2008_ format message received"
+CM:  2/01/15 18:33:21 (+290ms)  "AL: received message complete"
+CM:  2/01/15 18:33:21 (+531ms)  "AL: NOTERECEIVEMESSAGEHANDLINGCOMPLETE"
+CM:  2/01/15 18:33:21 (+531ms)  "TL: SENDPENDINGOKRESPONSE"
+ 01
+CM:  2/01/15 18:33:21 (+531ms)  "TL: sending send msg response"
+CM:  2/01/15 18:33:21 (+531ms)  "PL: port2 tx"
+ EE 00 21 00 00 01 00 C4 5A
+CM:  2/01/15 18:33:21 (+596ms)  "DL: ACK received"
+CM:  2/01/15 18:33:21 (+642ms)  "TL: send acse msg"
+CM:  2/01/15 18:33:21 (+642ms)  "PL: port2 tx"
+ EE 00 01 00 00 2F 74 00 60 2B A2 05 80 03 44 21
+CM:  2/01/15 18:33:21 (+642ms)  "PL: port2 tx"
+ 10 A4 03 02 01 01 A6 05 80 03 44 21 03 A8 04 02
+CM:  2/01/15 18:33:21 (+642ms)  "PL: port2 tx"
+ 02 01 5B BE 10 28 0E 81 0C 82 0A 00 00 06 01 69
+CM:  2/01/15 18:33:21 (+642ms)  "PL: port2 tx"
+ D6 14 2E 00 7E 9B FB
+CM:  2/01/15 18:33:21 (+695ms)  "DL: ACK received"
+CM:  2/01/15 18:33:21 (+695ms)  "AL: sending msg"
+CM:  2/01/15 18:33:21 (+706ms)  "PL: port2 rx"
+ EE 00 21 00 00 02 73 80 CA C1
+CM:  2/01/15 18:33:21 (+706ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:21 (+706ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:21 (+706ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:21 (+706ms)  "DL: Message complete"
+CM:  2/01/15 18:33:21 (+706ms)  "TL: process command"
+ 73
+CM:  2/01/15 18:33:21 (+706ms)  "TL: rcv cmd=link control"
+CM:  2/01/15 18:33:21 (+706ms)  "TL: sending link control response"
+CM:  2/01/15 18:33:21 (+706ms)  "PL: port2 tx"
+ EE 00 21 00 00 04 00 01 0D 00 40 4D
+CM:  2/01/15 18:33:21 (+709ms)  "DL: ACK received"
+CM:  2/01/15 18:33:21 (+720ms)  "TL: send get config request"
+CM:  2/01/15 18:33:21 (+720ms)  "PL: port2 tx"
+ EE 00 01 00 00 01 72 C0 6A
+CM:  2/01/15 18:33:21 (+957ms)  "DL: ACK received"
+CM:  2/01/15 18:33:21 (+968ms)  "PL: port2 rx"
+ EE 00 01 00 00 2E 00 01 01 20 01 02 03 04 06 12
+CM:  2/01/15 18:33:21 (+968ms)  "PL: port2 rx"
+ 02 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F 10
+CM:  2/01/15 18:33:21 (+968ms)  "PL: port2 rx"
+ 11 12 04 12 34 56 80 00 04 00 00 00 00 0D 03 44
+CM:  2/01/15 18:33:21 (+968ms)  "PL: port2 rx"
+ 21 10 0D 00 75 36
+CM:  2/01/15 18:33:21 (+968ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:21 (+968ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:21 (+968ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:21 (+968ms)  "DL: Message complete"
+CM:  2/01/15 18:33:21 (+968ms)  "TL: Process ok response for pending request"
+ 72
+CM:  2/01/15 18:33:21 (+968ms)  "TL: rcv response=get config"
+CM:  2/01/15 18:33:21 (+968ms)  "TL: config updated"
+CM:  2/01/15 18:33:24 (+409ms)  "PL: port2 tx"
+ EE 00 21 00 00 00 D6 DF
+CM:  2/01/15 18:33:24 (+488ms)  "DL: ACK received"
+CM:  2/01/15 18:33:27 (+ 16ms)  "PL: port2 tx"
+ EE 00 01 00 00 00 85 50
+CM:  2/01/15 18:33:27 (+106ms)  "DL: ACK received"
+CM:  2/01/15 18:33:29 (+623ms)  "PL: port2 tx"
+ EE 00 21 00 00 00 D6 DF
+CM:  2/01/15 18:33:29 (+725ms)  "DL: ACK received"
+CM:  2/01/15 18:33:31 (+646ms)  "PL: port2 rx"
+ EE 00 21 00 00 02 75 00 12 11
+CM:  2/01/15 18:33:31 (+646ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:31 (+646ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:31 (+646ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:31 (+646ms)  "DL: Message complete"
+CM:  2/01/15 18:33:31 (+646ms)  "TL: process command"
+ 75
+CM:  2/01/15 18:33:31 (+646ms)  "TL: rcv cmd=get status"
+CM:  2/01/15 18:33:31 (+646ms)  "PL: port2 tx"
+ EE 00 01 00 00 2E 00 0D 54 65 73 74 49 6E 74 65
+CM:  2/01/15 18:33:31 (+646ms)  "PL: port2 tx"
+ 72 66 61 63 65 01 08 01 00 00 00 00 00 00 00 01
+CM:  2/01/15 18:33:31 (+646ms)  "PL: port2 tx"
+ 00 01 00 00 00 00 00 00 01 14 00 02 00 00 00 00
+CM:  2/01/15 18:33:31 (+646ms)  "PL: port2 tx"
+ 00 00 01 3A 4D 25
+CM:  2/01/15 18:33:31 (+649ms)  "DL: ACK received"
+CM:  2/01/15 18:33:34 (+230ms)  "PL: port2 tx"
+ EE 00 21 00 00 00 D6 DF
+CM:  2/01/15 18:33:34 (+268ms)  "DL: ACK received"
+CM:  2/01/15 18:33:36 (+831ms)  "PL: port2 tx"
+ EE 00 01 00 00 00 85 50
+CM:  2/01/15 18:33:36 (+887ms)  "DL: ACK received"
+CM:  2/01/15 18:33:39 (+446ms)  "PL: port2 tx"
+ EE 00 21 00 00 00 D6 DF
+CM:  2/01/15 18:33:39 (+505ms)  "DL: ACK received"
+CM:  2/01/15 18:33:41 (+720ms)  "PL: port2 rx"
+ EE 00 01 00 00 02 75 00 72 94
+CM:  2/01/15 18:33:41 (+720ms)  "DL: Process received packet"
+CM:  2/01/15 18:33:41 (+720ms)  "PL: port2 tx"
+ 06
+CM:  2/01/15 18:33:41 (+720ms)  "DL: Packet sent to TL"
+CM:  2/01/15 18:33:41 (+720ms)  "DL: Message complete"
+CM:  2/01/15 18:33:41 (+720ms)  "TL: process command"
+ 75
+CM:  2/01/15 18:33:41 (+720ms)  "TL: rcv cmd=get status"
+CM:  2/01/15 18:33:41 (+720ms)  "PL: port2 tx"
+ EE 00 01 00 00 2E 00 0D 54 65 73 74 49 6E 74 65
+CM:  2/01/15 18:33:41 (+720ms)  "PL: port2 tx"
+ 72 66 61 63 65 01 08 01 00 00 00 00 00 00 00 01
+CM:  2/01/15 18:33:41 (+720ms)  "PL: port2 tx"
+ 00 01 00 00 00 00 00 00 01 63 00 02 00 00 00 00
+CM:  2/01/15 18:33:41 (+720ms)  "PL: port2 tx"
+ 00 00 01 4A E6 A8
+CM:  2/01/15 18:33:41 (+726ms)  "DL: ACK received"
+CM:  2/01/15 18:33:44 (+253ms)  "PL: port2 tx"
+ EE 00 21 00 00 00 D6 DF
+CM:  2/01/15 18:33:44 (+344ms)  "DL: ACK received"
+CM:  2/01/15 18:33:46 (+853ms)  "PL: port2 tx"
+ EE 00 01 00 00 00 85 50
+CM:  2/01/15 18:33:46 (+862ms)  "DL: ACK received"
+CM:  2/01/15 18:33:49 (+464ms)  

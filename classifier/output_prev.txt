@@ -1,0 +1,350 @@
+
+Features : Harm Factor, Closeness_measure, PEB
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 1221
+Weighted Avg of feature extraction time : 0.334118282321
+Avg feature extraction time : 0.00267739425572
+Accuracy level           : 100.0
+
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 1226
+Weighted Avg of feature extraction time : 0.56349522273
+Avg feature extraction time : 0.00296673754254
+Accuracy level           : 100.0
+
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 1255
+Weighted Avg of feature extraction time : 0.600243916302
+Avg feature extraction time : 0.00305400360296
+Accuracy level           : 100.0
+
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 1239
+Weighted Avg of feature extraction time : 0.665044342528
+Avg feature extraction time : 0.00312267489017
+Accuracy level           : 100.0
+
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 1233
+Weighted Avg of feature extraction time : 0.708157170876
+Avg feature extraction time : 0.0031033655434
+Accuracy level           : 100.0
+
+Features : Harm Factor, Hit count, closeness measure
+
+############################################################################################################################
+No of misclassifications : 2
+No of false positive     : 0
+No of false negatives    : 2
+Total no of test samples : 1239
+Weighted Avg of feature extraction time : 1.03991531909
+Avg feature extraction time : 0.0044624479714
+Accuracy level           : 99.8385794996
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.0853347 ])]
+File info : [-1, 1, 10240, array([ 4.07664499,  6.        ,  0.0191705 ])]
+############################################################################################################################
+No of misclassifications : 2
+No of false positive     : 0
+No of false negatives    : 2
+Total no of test samples : 1263
+Weighted Avg of feature extraction time : 0.995688768403
+Avg feature extraction time : 0.00447853738828
+Accuracy level           : 99.8416468725
+
+File info : [-1, 1, 11264, array([ 4.02872438,  7.        ,  0.10201582])]
+File info : [-1, 1, 9216, array([ 3.8614554 ,  4.        ,  0.25284898])]
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 1245
+Weighted Avg of feature extraction time : 0.976254186938
+Avg feature extraction time : 0.00466702449987
+Accuracy level           : 100.0
+
+############################################################################################################################
+No of misclassifications : 2
+No of false positive     : 0
+No of false negatives    : 2
+Total no of test samples : 1249
+Weighted Avg of feature extraction time : 0.966029036417
+Avg feature extraction time : 0.00363555196699
+Accuracy level           : 99.8398718975
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.08596192])]
+File info : [-1, 1, 9216, array([  3.86145540e+00,   4.00000000e+00,   3.46020761e-05])]
+############################################################################################################################
+No of misclassifications : 1
+No of false positive     : 0
+No of false negatives    : 1
+Total no of test samples : 1244
+Weighted Avg of feature extraction time : 0.961069043649
+Avg feature extraction time : 0.00453111192529
+Accuracy level           : 99.9196141479
+
+File info : [-1, 1, 11264, array([ 4.02872438,  7.        ,  0.01742725])]
+
+Features : No of hits, closeness measure, PEB
+
+
+############################################################################################################################
+No of misclassifications : 1
+No of false positive     : 0
+No of false negatives    : 1
+Total no of test samples : 1213
+Weighted Avg of feature extraction time : 1.27329126674
+Avg feature extraction time : 0.00512696557461
+Accuracy level           : 99.9175597692
+
+File info : [-1, 1, 32768, array([  8.00000000e+00,   7.04944979e-04,   0.00000000e+00])]
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 1228
+Weighted Avg of feature extraction time : 1.24793135956
+Avg feature extraction time : 0.00512911415578
+Accuracy level           : 100.0
+
+############################################################################################################################
+No of misclassifications : 3
+No of false positive     : 0
+No of false negatives    : 3
+Total no of test samples : 1277
+Weighted Avg of feature extraction time : 1.24937122531
+Avg feature extraction time : 0.0050901279429
+Accuracy level           : 99.7650743931
+
+File info : [-1, 1, 10240, array([ 7.        ,  0.07905604,  0.        ])]
+File info : [-1, 1, 32768, array([ 8.        ,  0.18130516,  0.        ])]
+File info : [-1, 1, 9216, array([ 4.        ,  0.06617639,  0.        ])]
+############################################################################################################################
+No of misclassifications : 1
+No of false positive     : 0
+No of false negatives    : 1
+Total no of test samples : 1251
+Weighted Avg of feature extraction time : 2.13924352905
+Avg feature extraction time : 0.00355901448682
+Accuracy level           : 99.9200639488
+
+File info : [-1, 1, 11264, array([  7.00000000e+00,   2.23962274e-03,   0.00000000e+00])]
+############################################################################################################################
+No of misclassifications : 3
+No of false positive     : 0
+No of false negatives    : 3
+Total no of test samples : 1241
+Weighted Avg of feature extraction time : 1.30818162727
+Avg feature extraction time : 0.00519348759849
+Accuracy level           : 99.7582594682
+
+File info : [-1, 1, 10240, array([ 7.       ,  0.0651711,  0.       ])]
+File info : [-1, 1, 32768, array([ 8.        ,  0.08790961,  0.        ])]
+File info : [-1, 1, 9216, array([ 4.        ,  0.56449638,  0.        ])]
+############################################################################################################################
+No of misclassifications : 5
+No of false positive     : 0
+No of false negatives    : 5
+Total no of test samples : 2926
+Weighted Avg of feature extraction time : 1.3081405506
+Avg feature extraction time : 0.00512875465194
+Accuracy level           : 99.8291182502
+
+File info : [-1, 1, 10240, array([ 7.        ,  0.02332494,  0.        ])]
+File info : [-1, 1, 32768, array([ 8.        ,  0.28566355,  0.        ])]
+File info : [-1, 1, 10240, array([ 6.        ,  0.01862941,  0.        ])]
+File info : [-1, 1, 11264, array([ 7.        ,  0.46839215,  0.        ])]
+File info : [-1, 1, 9216, array([  4.00000000e+00,   1.24091603e-04,   0.00000000e+00])]
+
+Features : All.
+
+
+############################################################################################################################
+No of misclassifications : 4
+No of false positive     : 0
+No of false negatives    : 4
+Total no of test samples : 2900
+Weighted Avg of feature extraction time : 1.30457463829
+Avg feature extraction time : 0.00517560970118
+Accuracy level           : 99.8620689655
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.01014794,  0.        ])]
+File info : [-1, 1, 10240, array([ 4.07664499,  6.        ,  0.50934767,  0.        ])]
+File info : [-1, 1, 11264, array([  4.02872438e+00,   7.00000000e+00,   3.50860154e-05,
+         0.00000000e+00])]
+File info : [-1, 1, 9216, array([  3.86145540e+00,   4.00000000e+00,   2.35613662e-03,
+         0.00000000e+00])]
+############################################################################################################################
+No of misclassifications : 6
+No of false positive     : 0
+No of false negatives    : 6
+Total no of test samples : 2872
+Weighted Avg of feature extraction time : 1.2974079987
+Avg feature extraction time : 0.00516130109031
+Accuracy level           : 99.791086351
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.04844888,  0.        ])]
+File info : [-1, 1, 32768, array([ 4.31825541,  8.        ,  0.05072023,  0.        ])]
+File info : [-1, 1, 10240, array([  4.07664499e+00,   6.00000000e+00,   1.90787080e-03,
+         0.00000000e+00])]
+File info : [-1, 1, 22528, array([  4.31426279e+00,   9.00000000e+00,   4.01279436e-03,
+         0.00000000e+00])]
+File info : [-1, 1, 11264, array([  4.02872438e+00,   7.00000000e+00,   5.07807421e-04,
+         0.00000000e+00])]
+File info : [-1, 1, 9216, array([  3.86145551e+00,   4.00000000e+00,   3.40550163e-03,
+         0.00000000e+00])]
+############################################################################################################################
+No of misclassifications : 5
+No of false positive     : 0
+No of false negatives    : 5
+Total no of test samples : 2855
+Weighted Avg of feature extraction time : 1.3071666874
+Avg feature extraction time : 0.00515128674255
+Accuracy level           : 99.8248686515
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.02947659,  0.        ])]
+File info : [-1, 1, 32768, array([ 4.31825541,  8.        ,  0.04446878,  0.        ])]
+File info : [-1, 1, 10240, array([ 4.07664499,  6.        ,  0.11820035,  0.        ])]
+File info : [-1, 1, 22528, array([ 4.31426279,  9.        ,  0.25180683,  0.        ])]
+File info : [-1, 1, 11264, array([ 4.02872438,  7.        ,  0.02299423,  0.        ])]
+############################################################################################################################
+No of misclassifications : 2
+No of false positive     : 0
+No of false negatives    : 2
+Total no of test samples : 2901
+Weighted Avg of feature extraction time : 1.29546020481
+Avg feature extraction time : 0.00521566675115
+Accuracy level           : 99.9310582558
+
+File info : [-1, 1, 10240, array([ 4.0766449 ,  6.        ,  0.05687161,  0.        ])]
+File info : [-1, 1, 9216, array([  3.86145630e+00,   4.00000000e+00,   7.34059423e-04,
+         0.00000000e+00])]
+############################################################################################################################
+No of misclassifications : 3
+No of false positive     : 0
+No of false negatives    : 3
+Total no of test samples : 2921
+Weighted Avg of feature extraction time : 1.34822001105
+Avg feature extraction time : 0.00525107046054
+Accuracy level           : 99.8972954468
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.04085673,  0.        ])]
+File info : [-1, 1, 10240, array([ 4.07664498,  6.        ,  0.0616906 ,  0.        ])]
+File info : [-1, 1, 11264, array([ 4.02872437,  7.        ,  0.11022661,  0.        ])]
+############################################################################################################################
+No of misclassifications : 2
+No of false positive     : 0
+No of false negatives    : 2
+Total no of test samples : 3311
+Weighted Avg of feature extraction time : 1.27876449707
+Avg feature extraction time : 0.00507439240195
+Accuracy level           : 99.9395952884
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.06662466,  0.        ])]
+File info : [-1, 1, 32768, array([ 4.31825541,  8.        ,  0.09435361,  0.        ])]
+############################################################################################################################
+No of misclassifications : 4
+No of false positive     : 2
+No of false negatives    : 2
+Total no of test samples : 3321
+Weighted Avg of feature extraction time : 1.28542692037
+Avg feature extraction time : 0.00513304507784
+Accuracy level           : 99.8795543511
+
+File info : [1, -1, 1100, array([ 3.29422526,  8.        ,  0.00818594,  0.        ])]
+File info : [1, -1, 1100, array([ 3.29422526,  8.        ,  0.06917093,  0.        ])]
+File info : [-1, 1, 10240, array([  4.07664499e+00,   6.00000000e+00,   3.79009767e-03,
+         0.00000000e+00])]
+File info : [-1, 1, 9216, array([  3.86145630e+00,   4.00000000e+00,   3.19376551e-05,
+         0.00000000e+00])]
+############################################################################################################################
+No of misclassifications : 4
+No of false positive     : 0
+No of false negatives    : 4
+Total no of test samples : 3328
+Weighted Avg of feature extraction time : 1.32326934131
+Avg feature extraction time : 0.00523175812927
+Accuracy level           : 99.8798076923
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.04179091,  0.        ])]
+File info : [-1, 1, 10240, array([ 4.07664499,  6.        ,  0.02245983,  0.        ])]
+File info : [-1, 1, 11264, array([ 4.02872438,  7.        ,  0.04140883,  0.        ])]
+File info : [-1, 1, 9216, array([ 3.8614554 ,  4.        ,  0.02951918,  0.        ])]
+############################################################################################################################
+No of misclassifications : 5
+No of false positive     : 0
+No of false negatives    : 5
+Total no of test samples : 3323
+Weighted Avg of feature extraction time : 1.33118622951
+Avg feature extraction time : 0.00523355138489
+Accuracy level           : 99.849533554
+
+File info : [-1, 1, 10240, array([ 3.99795741,  7.        ,  0.08807348,  0.        ])]
+File info : [-1, 1, 32768, array([ 4.31825541,  8.        ,  0.10367902,  0.        ])]
+File info : [-1, 1, 10240, array([ 4.07664499,  6.        ,  0.0946873 ,  0.        ])]
+File info : [-1, 1, 11264, array([ 4.02872438,  7.        ,  0.06709268,  0.        ])]
+File info : [-1, 1, 9216, array([ 3.8614554 ,  4.        ,  0.19890541,  0.        ])]
+############################################################################################################################
+No of misclassifications : 4
+No of false positive     : 0
+No of false negatives    : 4
+Total no of test samples : 3302
+Weighted Avg of feature extraction time : 1.32276745256
+Avg feature extraction time : 0.00539985857637
+Accuracy level           : 99.8788612962
+
+File info : [-1, 1, 32768, array([ 4.31825541,  8.        ,  0.06392421,  0.        ])]
+File info : [-1, 1, 10240, array([  4.07664499e+00,   6.00000000e+00,   5.03557511e-04,
+         0.00000000e+00])]
+File info : [-1, 1, 11264, array([ 4.02872438,  7.        ,  0.03405918,  0.        ])]
+File info : [-1, 1, 9216, array([  3.86145540e+00,   4.00000000e+00,   3.33172994e-05,
+         0.00000000e+00])]
+############################################################################################################################
+No of misclassifications : 4
+No of false positive     : 0
+No of false negatives    : 4
+Total no of test samples : 2913
+Weighted Avg of feature extraction time : 0.245109702048
+Avg feature extraction time : 0.000785469838307
+Accuracy level           : 99.8626845177
+
+File info : [-1.0, 1, 10240, array([ 3.99795741,  0.04816064,  0.        ,  7.        ])]
+File info : [-1.0, 1, 10240, array([ 4.07664499,  0.05533187,  0.        ,  6.        ])]
+File info : [-1.0, 1, 11264, array([ 4.02872438,  0.03683521,  0.        ,  7.        ])]
+File info : [-1.0, 1, 9216, array([ 3.8614563 ,  0.00955028,  0.        ,  4.        ])]
+############################################################################################################################
+No of misclassifications : 0
+No of false positive     : 0
+No of false negatives    : 0
+Total no of test samples : 2858
+Weighted Avg of feature extraction time : 0.262014357006
+Avg feature extraction time : 0.000820415726035
+Accuracy level           : 100.0
+
+############################################################################################################################
+No of misclassifications : 3
+No of false positive     : 0
+No of false negatives    : 3
+Total no of test samples : 2916
+Weighted Avg of feature extraction time : 0.244797960933
+Avg feature extraction time : 0.000780634955105
+Accuracy level           : 99.8971193416
+
+File info : [-1.0, 1, 10240, array([ 3.99795741,  0.13529838,  7.        ])]
+File info : [-1.0, 1, 11264, array([ 4.02872438,  0.04848927,  7.        ])]
+File info : [-1.0, 1, 9216, array([ 3.8614554 ,  0.02047101,  4.        ])]

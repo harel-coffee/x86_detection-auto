@@ -1,0 +1,40 @@
+############################################################################################################################
+No of misclassifications : 4
+No of false positive     : 0
+No of false negatives    : 4
+Total no of test samples : 2836
+Weighted Avg of feature extraction time : 0.248893861241
+Avg feature extraction time : 0.000770175064753
+Accuracy level           : 99.8589562764
+
+File info : [-1.0, 1, 10240, array([ 4.45751353,  7.        ,  0.11670467,  0.        ])]
+File info : [-1.0, 1, 10240, array([ 3.87874822,  6.        ,  0.01485065,  0.        ])]
+File info : [-1.0, 1, 11264, array([ 4.09850257,  7.        ,  0.40114875,  0.        ])]
+File info : [-1.0, 1, 9216, array([ 3.55534806,  4.        ,  0.69444444,  0.        ])]
+############################################################################################################################
+No of misclassifications : 5
+No of false positive     : 0
+No of false negatives    : 5
+Total no of test samples : 2794
+Weighted Avg of feature extraction time : 0.304875554783
+Avg feature extraction time : 0.00098520372388
+Accuracy level           : 99.8210450966
+
+File info : [-1.0, 1, 32768, array([ 4.45452617,  8.        ,  0.02457315,  0.        ])]
+File info : [-1.0, 1, 10240, array([ 4.45751353,  7.        ,  0.08824192,  0.        ])]
+File info : [-1.0, 1, 10240, array([ 3.87874822,  6.        ,  0.1862064 ,  0.        ])]
+File info : [-1.0, 1, 11264, array([ 4.09850257,  7.        ,  0.42009918,  0.        ])]
+File info : [-1.0, 1, 9216, array([ 3.55534806,  4.        ,  0.06440722,  0.        ])]
+############################################################################################################################
+No of misclassifications : 4
+No of false positive     : 0
+No of false negatives    : 4
+Total no of test samples : 2879
+Weighted Avg of feature extraction time : 0.344633554177
+Avg feature extraction time : 0.00105486791021
+Accuracy level           : 99.8610628691
+
+File info : [-1.0, 1, 32768, array([ 4.45452617,  8.        ,  0.03285975,  0.        ])]
+File info : [-1.0, 1, 10240, array([ 4.45751353,  7.        ,  0.1507892 ,  0.        ])]
+File info : [-1.0, 1, 10240, array([ 3.87874822,  6.        ,  0.38773313,  0.        ])]
+File info : [-1.0, 1, 11264, array([ 4.09850257,  7.        ,  0.23056771,  0.        ])]
