@@ -35,7 +35,7 @@ Experiments :
 		 with the file name classifier.pkl inside the directory specified by <path_to_classifier>
 		-The trained classifier is used to predict the class of samples in the test set. An output file 'output.txt' containing the statistics is generated and stored inside <path_to_classifier>
 		-The training and test files are destroyed
-		-The information gain of each feature is also obtained and stored in inside <path_to_classifier>
+		
 
 	Test 3 :
 
