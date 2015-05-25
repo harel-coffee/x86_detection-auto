@@ -1,8 +1,7 @@
 Usage :
--------
 
-	<sample_directory> : Usually the dataset which can contain a mixture of x86 executables and c1222 packets. 
-	<path_to_classifier> : Should contain the stored classifier. The default classifier name is classifier.pkl  (eg : see the classifiers folder)
+<sample_directory> : Usually the dataset which can contain a mixture of x86 executables and c1222 packets. 
+<path_to_classifier> : Should contain the stored classifier. The default classifier name is classifier.pkl  (eg : see the classifiers folder)
 
 
 Running in passive mode as a standalone server process (localhost, port : 2700):

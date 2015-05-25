@@ -18,7 +18,7 @@
 ### 2.1 System Requirements :
 
 
-	Windows XP or higher, bcc32 compiler v2.6 or higher
+	Windows XP or higher, bcc32 compiler v5.0.2 or higher
 
 
 ### 2.2 Compiling the Client :
